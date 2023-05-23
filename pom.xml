@@ -4,7 +4,7 @@
   <groupId>Demo2</groupId>
   <artifactId>Assign6</artifactId>
   <packaging>war</packaging>
-  <version>2.2</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>Assign6 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
